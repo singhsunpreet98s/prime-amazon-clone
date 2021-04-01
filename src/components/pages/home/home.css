@@ -1,0 +1,6 @@
+.gridContainer{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content:left;
+   position: relative;
+}

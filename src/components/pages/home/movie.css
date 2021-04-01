@@ -1,0 +1,20 @@
+
+.movieContainer{
+   margin:3px;
+   width:250px;
+   height:150px;
+   overflow:hidden;
+   cursor:pointer;
+   color:white;
+   position:static;
+}
+.movieContainer:hover{
+   transform:scale(1.15);
+   transition: all 0.5s;
+   border-radius: 2px;
+   box-shadow: 1px 2px 2px 1px rgba(0,0,0,0.55);
+}
+.tileImg{
+   width:250px;
+   height:150px;
+}
